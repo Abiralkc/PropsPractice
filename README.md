@@ -3,7 +3,10 @@
 ## Run Script
 ### `npm run dev`
 
-##task <br/>
+##Branch Naming Convention
+### feature/yourname
+
+###task <br/>
 1)copy 10 objects from https://jsonplaceholder.typicode.com/todos and add it to data.json inside react app<br/>
 2)import the data.json in the parent component(App.jsx)<br/>
 3)create a card design in src/components/card  (create a card.jsx with any design styles)<br/>
