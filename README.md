@@ -3,8 +3,8 @@
 ## Run Script
 ### `npm run dev`
 
-##Branch Naming Convention
-###feature/yourname
+## Branch Naming Convention
+### feature/yourname
 
 ###task <br/>
 1)copy 10 objects from https://jsonplaceholder.typicode.com/todos and add it to data.json inside react app<br/>
